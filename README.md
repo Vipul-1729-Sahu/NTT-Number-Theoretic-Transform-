@@ -510,7 +510,7 @@ If there are no mismatches, the simulation prints a pass message.
 
 ---
 
-# Project Scope for Placement Version
+# Project Scope 
 
 This GitHub repository is intended to show a hardware implementation of the NTT/INTT core.
 
